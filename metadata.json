@@ -1,0 +1,8 @@
+
+{
+  "name": "EcoTracker",
+  "description": "Comprehensive green tech toolkit for tracking personal and campus-wide sustainability impact.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
